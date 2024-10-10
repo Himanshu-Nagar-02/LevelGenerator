@@ -1,12 +1,12 @@
 {
   "LevelGenerator":[
     {
-      "LevelID": "1",
+      "LevelID": "0",
       "LevelName": "1st Level",
       "LevelType": "Floor"
     },
     {
-      "LevelID": "2",
+      "LevelID": "1",
       "LevelName": "2st Level",
       "LevelType": "Room"
     }
