@@ -1,5 +1,5 @@
 {
-    "type": "garden",  // or "room"
+    "type": "garden",  
     "size": {
         "width": 2000,
         "length": 2000,
