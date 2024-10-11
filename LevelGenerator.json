@@ -1,14 +1,20 @@
 {
-  "LevelGenerator":[
-    {
-      "LevelID": "0",
-      "LevelName": "1st Level",
-      "LevelType": "Floor"
+    "type": "garden",  // or "room"
+    "size": {
+        "width": 2000,
+        "length": 2000,
+        "height": 100
     },
-    {
-      "LevelID": "1",
-      "LevelName": "2st Level",
-      "LevelType": "Room"
-    }
-  ]
+    "collectibles": [
+        {
+            "type": "coin",
+            "x": 100,
+            "y": 200,
+            "z": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "scaleZ": 1
+        },
+     
+    ]
 }
